@@ -13,20 +13,9 @@ Por exemplo:
 |	Requisito Associado 	| RF-01 - A aplicação deve permitir que o usuário cadastre uma conta como cliente ou prestador de serviço.. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar como cliente ou prestador de serviço. |
 | Passos 	| 1.	Navegar para a página de cadastro.
-2.	Preencher os campos obrigatórios (nome, e-mail, senha).
-3.	Selecionar tipo de conta (cliente/prestador).
-4.	Submeter o formulário.
- |
-|Critério de Êxito | - o	O sistema deve cadastrar o usuário com sucesso. |
-|  	|  	|
-| Caso de Teste 	| CT-02 – Login na Conta 	|
-|Requisito Associado | RF-02	- A aplicação deve permitir que o usuário faça login na sua conta. |
-| Objetivo do Teste 	| Verificar se o usuário consegue fazer login com credenciais válidas. |
-| Passos 	| 1.	Acessar a página de login.
-2.	Inserir e-mail e senha corretos.
-3.	Submeter o formulário.
- |
-|Critério de Êxito | - o	O sistema deve permitir o login e redirecionar para o painel do usuário. |
+
+ 
+
 
  
 > **Links Úteis**:
